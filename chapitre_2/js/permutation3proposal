@@ -1,0 +1,9 @@
+var nombre1 = 5;
+var nombre2 = 3;
+
+var nombre1 = nombre1 - 2; // working idea but maybe not the best way to resolve the problem...
+var nombre2 = nombre2 + 2;
+
+console.log(nombre1); // doit afficher 3
+console.log(nombre2); // doit afficher 5
+
